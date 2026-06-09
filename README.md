@@ -108,14 +108,11 @@ Multi-Vendor Tourism Platform
 **Tech:** PHP, MySQL, JavaScript
 
 ---
-
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dattatraydharmoji&show_icons=true&theme=github_dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dattatraydharmoji&layout=compact&theme=github_dark)
 
 ---
 
