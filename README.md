@@ -133,7 +133,7 @@ Food Ordering and Management Platform designed for educational institutions.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Dattatray-Dharmoji&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dattatray-Dharmoji&theme=tokyonight&hide_border=true"/>
 
