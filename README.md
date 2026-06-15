@@ -149,15 +149,6 @@ Food Ordering and Management Platform designed for educational institutions.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dattatray-Dharmoji&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
